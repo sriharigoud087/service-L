@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Srihari dotnet\\SampleAppSettings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\models\\appsetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\models\\appsetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\sampleappsettings.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\sampleappsettings.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\services\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\services\\scopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\services\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\services\\transientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\services\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\services\\singletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\services\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\services\\iscopedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\services\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\services\\isingletonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\services\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\services\\itransientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\sampleappsettings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\sampleappsettings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\appsettings.prod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\appsettings.prod.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\appsettings.qa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\appsettings.qa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|d:\\srihari dotnet\\sampleappsettings\\sampleappsettings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6008292D-959D-466F-A9D5-67588CBBFE22}|SampleAppSettings\\SampleAppSettings.csproj|solutionrelative:sampleappsettings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleAppSettings.http",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\SampleAppSettings.http",
+              "RelativeDocumentMoniker": "SampleAppSettings\\SampleAppSettings.http",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\SampleAppSettings.http",
+              "RelativeToolTip": "SampleAppSettings\\SampleAppSettings.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-15T01:15:41.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Program.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Program.cs",
+              "RelativeToolTip": "SampleAppSettings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:29:06.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISingletonService.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\ISingletonService.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Services\\ISingletonService.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\ISingletonService.cs",
+              "RelativeToolTip": "SampleAppSettings\\Services\\ISingletonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:03:49.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IScopedService.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\IScopedService.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Services\\IScopedService.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\IScopedService.cs",
+              "RelativeToolTip": "SampleAppSettings\\Services\\IScopedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:02:59.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITransientService.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\ITransientService.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Services\\ITransientService.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\ITransientService.cs",
+              "RelativeToolTip": "SampleAppSettings\\Services\\ITransientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:02:36.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestingController.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Controllers\\TestingController.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Controllers\\TestingController.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Controllers\\TestingController.cs",
+              "RelativeToolTip": "SampleAppSettings\\Controllers\\TestingController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwC8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:01:56.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransientService.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\TransientService.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Services\\TransientService.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\TransientService.cs",
+              "RelativeToolTip": "SampleAppSettings\\Services\\TransientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:04:37.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SampleAppSettings\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T21:45:25.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppSetings.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Models\\AppSetings.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Models\\AppSetings.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Models\\AppSetings.cs",
+              "RelativeToolTip": "SampleAppSettings\\Models\\AppSetings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:22:02.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SampleAppSettings\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:20:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingletonService.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\SingletonService.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Services\\SingletonService.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\SingletonService.cs",
+              "RelativeToolTip": "SampleAppSettings\\Services\\SingletonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:04:17.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScopedService.cs",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\ScopedService.cs",
+              "RelativeDocumentMoniker": "SampleAppSettings\\Services\\ScopedService.cs",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\Services\\ScopedService.cs",
+              "RelativeToolTip": "SampleAppSettings\\Services\\ScopedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T04:04:02.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.QA.json",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\appsettings.QA.json",
+              "RelativeDocumentMoniker": "SampleAppSettings\\appsettings.QA.json",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\appsettings.QA.json",
+              "RelativeToolTip": "SampleAppSettings\\appsettings.QA.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T21:20:05.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Prod.json",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\appsettings.Prod.json",
+              "RelativeDocumentMoniker": "SampleAppSettings\\appsettings.Prod.json",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\appsettings.Prod.json",
+              "RelativeToolTip": "SampleAppSettings\\appsettings.Prod.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T21:20:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SampleAppSettings.csproj",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\SampleAppSettings.csproj",
+              "RelativeDocumentMoniker": "SampleAppSettings\\SampleAppSettings.csproj",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\SampleAppSettings.csproj",
+              "RelativeToolTip": "SampleAppSettings\\SampleAppSettings.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T21:21:34.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SampleAppSettings\\appsettings.Development.json",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\appsettings.Development.json",
+              "RelativeToolTip": "SampleAppSettings\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T21:18:54.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleAppSettings\\appsettings.json",
+              "ToolTip": "D:\\Srihari dotnet\\SampleAppSettings\\SampleAppSettings\\appsettings.json",
+              "RelativeToolTip": "SampleAppSettings\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T21:17:02.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
